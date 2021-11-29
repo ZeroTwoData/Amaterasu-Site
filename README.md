@@ -1,4 +1,4 @@
-# AmaterasuSite
+# Amaterasu Site
 Website I developed w/ HTML5, CSS3, Javascript
 
 This responsive website was developed to mimick a company that sells PC hardware components as well as Pre-Built PC's.
