@@ -240,7 +240,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../Images/ocgraphics-home.jpeg); /*url function used to insert images via css stylesheet*/
+    background: url(/Images/ocgraphics-home.jpg) no-repeat; /*url function used to insert images via css stylesheet*/
     background-size: cover;
     background-position: center;
 }
