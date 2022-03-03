@@ -240,7 +240,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url("/Images/ocgraphics-home.JPG"); /*url function used to insert images via css stylesheet*/
+    background: url("Amaterasu-Site/Images/ocgraphics-home.jpg"); /*url function used to insert images via css stylesheet*/
     background-size: cover;
     background-position: center;
 }
