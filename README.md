@@ -10,3 +10,5 @@ Looking forward to improving this website my implementing back-end code in the f
 Please provide any comments/suggestions so as to improve this site! Thank you 😉!
 
 P.S. The website is hosted by Github pages (in other words you can view the website clicking on the link "github-pages" under the header "Environments" on the right hand side of the screen).
+
+### SOME IMAGES DO NOT APPEAR SO CLONE THE REPOSITORY TO VIEW THE COMPLETE PAGE!
