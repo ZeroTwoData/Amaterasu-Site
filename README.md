@@ -11,4 +11,4 @@ Please provide any comments/suggestions so as to improve this site! Thank you ðŸ
 
 P.S. The website is hosted by Github pages (in other words you can view the website clicking on the link "github-pages" under the header "Environments" on the right hand side of the screen).
 
-### SOME IMAGES DO NOT APPEAR SO CLONE THE REPOSITORY TO VIEW THE COMPLETE PAGE!
+### SOME IMAGES DO NOT APPEAR WHILE USING THE GITHUB PAGES ENVIRONMENT, SO CLONE THIS REPOSITORY TO VIEW THE COMPLETE WEBSITE!
